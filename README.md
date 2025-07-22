@@ -1,4 +1,4 @@
-# AiChat App - Complete Technical Features Summary
+# AIChat App - Complete Technical Features Summary
 
 ## Architecture Overview
 
