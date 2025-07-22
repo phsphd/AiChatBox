@@ -2,7 +2,7 @@
 
 ## Architecture Overview
 
-**ExcellGen's AiChat** is a Next.js 15-based AI-powered customer service application built on **Vercel's serverless architecture**. It serves as a comprehensive customer support portal with automated order processing, quote generation, and intelligent product assistance.
+**ExcellGen's AIChat** is a Next.js 15-based AI-powered customer service application built on **Vercel's serverless architecture**. It serves as a comprehensive customer support portal with automated order processing, quote generation, and intelligent product assistance.
 
 ### **Core Technology Stack**
 - **Frontend**: Next.js 15 with React 19, TypeScript, TailwindCSS
